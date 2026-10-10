@@ -1,0 +1,741 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//i-atwork//Career Roadmap//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Walid Career Roadmap 2026
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VEVENT
+UID:ffb10638914594335cd375c7@career-roadmap.local
+DTSTAMP:20261010T104453Z
+DTSTART:20261012T103000Z
+DTEND:20261012T104500Z
+SUMMARY:Start 30-day certification plan
+DESCRIPTION:Planning milestone only. Mark complete after evidence exists.
+  No exam\, meeting or external action is booked by this event.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e554e21b3bc0604cc8a078c0@career-roadmap.local
+DTSTAMP:20261010T104453Z
+DTSTART:20261012T160000Z
+DTEND:20261012T163000Z
+SUMMARY:IAPM study block
+DESCRIPTION:Use the relevant weekly topic in the roadmap. Proposed time\;
+  check calendar conflicts.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3ceffee8c2bbb417aabf311b@career-roadmap.local
+DTSTAMP:20261010T104453Z
+DTSTART:20261012T163000Z
+DTEND:20261012T173000Z
+SUMMARY:Tailored applications
+DESCRIPTION:Normal-week target: two suitable applications. Record actual 
+ submissions.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4005c4f3a86735f800710a94@career-roadmap.local
+DTSTAMP:20261010T104453Z
+DTSTART:20261013T103000Z
+DTEND:20261013T104500Z
+SUMMARY:Refresh older technical job evidence
+DESCRIPTION:Planning milestone only. Mark complete after evidence exists.
+  No exam\, meeting or external action is booked by this event.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:32d36099b86faeca075f81ec@career-roadmap.local
+DTSTAMP:20261010T104453Z
+DTSTART:20261014T103000Z
+DTEND:20261014T104500Z
+SUMMARY:Prepare instructor feedback request and AI policy subscription
+DESCRIPTION:Planning milestone only. Mark complete after evidence exists.
+  No exam\, meeting or external action is booked by this event.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0db03d2d648effe9a0f60d2e@career-roadmap.local
+DTSTAMP:20261010T104453Z
+DTSTART:20261014T160000Z
+DTEND:20261014T163000Z
+SUMMARY:IAPM study block
+DESCRIPTION:Use the relevant weekly topic in the roadmap. Proposed time\;
+  check calendar conflicts.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b761727337ad069d17caf3ec@career-roadmap.local
+DTSTAMP:20261010T104453Z
+DTSTART:20261015T163000Z
+DTEND:20261015T170000Z
+SUMMARY:Targeted outreach
+DESCRIPTION:Normal-week target: three tailored messages. Review before se
+ nding.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:31c7d2173e05db57171f5586@career-roadmap.local
+DTSTAMP:20261010T104453Z
+DTSTART:20261015T170000Z
+DTEND:20261015T183000Z
+SUMMARY:Portfolio and technical repetition
+DESCRIPTION:Follow the technical repetition and gap-action plan\; record 
+ evidence.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:93dd9f5d0da2334131633542@career-roadmap.local
+DTSTAMP:20261010T104453Z
+DTSTART:20261016T103000Z
+DTEND:20261016T104500Z
+SUMMARY:Peer review and positioning clarity test
+DESCRIPTION:Planning milestone only. Mark complete after evidence exists.
+  No exam\, meeting or external action is booked by this event.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8ca989bf0b80bd6697f20118@career-roadmap.local
+DTSTAMP:20261010T104453Z
+DTSTART:20261016T160000Z
+DTEND:20261016T163000Z
+SUMMARY:IAPM study block
+DESCRIPTION:Use the relevant weekly topic in the roadmap. Proposed time\;
+  check calendar conflicts.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:be58aeceb5c58e7765a66fe8@career-roadmap.local
+DTSTAMP:20261010T104453Z
+DTSTART:20261016T163000Z
+DTEND:20261016T170000Z
+SUMMARY:Career progress review
+DESCRIPTION:Update replies\, applications\, conversations and next action
+ s.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:95b32f439571637884032244@career-roadmap.local
+DTSTAMP:20261010T104453Z
+DTSTART:20261017T070000Z
+DTEND:20261017T080000Z
+SUMMARY:IAPM consolidation
+DESCRIPTION:Practice recall\, revise error log and produce weekly output.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f8aae3802f23a97df0ea869e@career-roadmap.local
+DTSTAMP:20261010T104453Z
+DTSTART:20261018T103000Z
+DTEND:20261018T104500Z
+SUMMARY:Week 1 output: Scrum map and baseline
+DESCRIPTION:Planning milestone only. Mark complete after evidence exists.
+  No exam\, meeting or external action is booked by this event.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:26e068bfeb99d2fb01b1ae40@career-roadmap.local
+DTSTAMP:20261010T104453Z
+DTSTART:20261019T160000Z
+DTEND:20261019T163000Z
+SUMMARY:IAPM study block
+DESCRIPTION:Use the relevant weekly topic in the roadmap. Proposed time\;
+  check calendar conflicts.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1aa7828624b767c2b5dfb00e@career-roadmap.local
+DTSTAMP:20261010T104453Z
+DTSTART:20261019T163000Z
+DTEND:20261019T173000Z
+SUMMARY:Tailored applications
+DESCRIPTION:Normal-week target: two suitable applications. Record actual 
+ submissions.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8caa2fc3293806ac83c77d81@career-roadmap.local
+DTSTAMP:20261010T104453Z
+DTSTART:20261020T103000Z
+DTEND:20261020T104500Z
+SUMMARY:Career services positioning review
+DESCRIPTION:Planning milestone only. Mark complete after evidence exists.
+  No exam\, meeting or external action is booked by this event.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20e2266ebb9e8a83f6456fdb@career-roadmap.local
+DTSTAMP:20261010T104453Z
+DTSTART:20261021T160000Z
+DTEND:20261021T163000Z
+SUMMARY:IAPM study block
+DESCRIPTION:Use the relevant weekly topic in the roadmap. Proposed time\;
+  check calendar conflicts.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:67f0db5010878c76d820151c@career-roadmap.local
+DTSTAMP:20261010T104453Z
+DTSTART:20261022T103000Z
+DTEND:20261022T104500Z
+SUMMARY:RAG evaluation gap action due
+DESCRIPTION:Planning milestone only. Mark complete after evidence exists.
+  No exam\, meeting or external action is booked by this event.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ee8f3c1dc1d4a516a42e5e50@career-roadmap.local
+DTSTAMP:20261010T104453Z
+DTSTART:20261022T163000Z
+DTEND:20261022T170000Z
+SUMMARY:Targeted outreach
+DESCRIPTION:Normal-week target: three tailored messages. Review before se
+ nding.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9ed01f599a98999021043969@career-roadmap.local
+DTSTAMP:20261010T104453Z
+DTSTART:20261022T170000Z
+DTEND:20261022T183000Z
+SUMMARY:Portfolio and technical repetition
+DESCRIPTION:Follow the technical repetition and gap-action plan\; record 
+ evidence.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9e02db9ec64c7777f31cb0ab@career-roadmap.local
+DTSTAMP:20261010T104453Z
+DTSTART:20261023T103000Z
+DTEND:20261023T104500Z
+SUMMARY:Energy contact pilot relevance request
+DESCRIPTION:Planning milestone only. Mark complete after evidence exists.
+  No exam\, meeting or external action is booked by this event.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b43727111380c00f9a46db7d@career-roadmap.local
+DTSTAMP:20261010T104453Z
+DTSTART:20261023T160000Z
+DTEND:20261023T163000Z
+SUMMARY:IAPM study block
+DESCRIPTION:Use the relevant weekly topic in the roadmap. Proposed time\;
+  check calendar conflicts.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4e35a509a060cd0438144126@career-roadmap.local
+DTSTAMP:20261010T104453Z
+DTSTART:20261023T163000Z
+DTEND:20261023T170000Z
+SUMMARY:Career progress review
+DESCRIPTION:Update replies\, applications\, conversations and next action
+ s.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1a3a866ad912f321d3181bd4@career-roadmap.local
+DTSTAMP:20261010T104453Z
+DTSTART:20261024T070000Z
+DTEND:20261024T080000Z
+SUMMARY:IAPM consolidation
+DESCRIPTION:Practice recall\, revise error log and produce weekly output.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d88dff0564869f1d3f66d3bf@career-roadmap.local
+DTSTAMP:20261010T104453Z
+DTSTART:20261025T113000Z
+DTEND:20261025T114500Z
+SUMMARY:Week 2 output and portfolio evidence
+DESCRIPTION:Planning milestone only. Mark complete after evidence exists.
+  No exam\, meeting or external action is booked by this event.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:73c5b3cc5f72f7467e4fed8e@career-roadmap.local
+DTSTAMP:20261010T104453Z
+DTSTART:20261028T170000Z
+DTEND:20261028T173000Z
+SUMMARY:Light campus-week review
+DESCRIPTION:Minimum plan: review weak topics and maintain one follow-up\;
+  proposed slot.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6ea52f0f0a56ab35076867db@career-roadmap.local
+DTSTAMP:20261010T104453Z
+DTSTART:20261029T170000Z
+DTEND:20261029T173000Z
+SUMMARY:Campus-week n8n desk rehearsal
+DESCRIPTION:Trace timeout and retry decisions on paper\; executable valid
+ ation is due 12 November.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:86b311833dcfc46ed79afce7@career-roadmap.local
+DTSTAMP:20261010T104453Z
+DTSTART:20261031T080000Z
+DTEND:20261031T090000Z
+SUMMARY:IAPM consolidation
+DESCRIPTION:Practice recall\, revise error log and produce weekly output.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cda68855d0bf9b3abcf7c98a@career-roadmap.local
+DTSTAMP:20261010T104453Z
+DTSTART:20261101T113000Z
+DTEND:20261101T114500Z
+SUMMARY:Week 3 output: Agile methods comparison
+DESCRIPTION:Planning milestone only. Mark complete after evidence exists.
+  No exam\, meeting or external action is booked by this event.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:76c06bac7fd47a3af94ec5b8@career-roadmap.local
+DTSTAMP:20261010T104453Z
+DTSTART:20261102T170000Z
+DTEND:20261102T173000Z
+SUMMARY:IAPM study block
+DESCRIPTION:Use the relevant weekly topic in the roadmap. Proposed time\;
+  check calendar conflicts.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:75520e23d1cba02211ada561@career-roadmap.local
+DTSTAMP:20261010T104453Z
+DTSTART:20261102T173000Z
+DTEND:20261102T183000Z
+SUMMARY:Tailored applications
+DESCRIPTION:Normal-week target: two suitable applications. Record actual 
+ submissions.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ba7c408a5df43c42553d4485@career-roadmap.local
+DTSTAMP:20261010T104453Z
+DTSTART:20261104T170000Z
+DTEND:20261104T173000Z
+SUMMARY:IAPM study block
+DESCRIPTION:Use the relevant weekly topic in the roadmap. Proposed time\;
+  check calendar conflicts.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbde3f88f9e4bcba721e67c@career-roadmap.local
+DTSTAMP:20261010T104453Z
+DTSTART:20261105T113000Z
+DTEND:20261105T114500Z
+SUMMARY:Transformation process and stakeholder gap action due
+DESCRIPTION:Planning milestone only. Mark complete after evidence exists.
+  No exam\, meeting or external action is booked by this event.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a3a184296f14fdb2dfee7a4c@career-roadmap.local
+DTSTAMP:20261010T104453Z
+DTSTART:20261105T173000Z
+DTEND:20261105T180000Z
+SUMMARY:Targeted outreach
+DESCRIPTION:Normal-week target: three tailored messages. Review before se
+ nding.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:198bb04b0b5d70878bae1fb9@career-roadmap.local
+DTSTAMP:20261010T104453Z
+DTSTART:20261105T180000Z
+DTEND:20261105T193000Z
+SUMMARY:Portfolio and technical repetition
+DESCRIPTION:Follow the technical repetition and gap-action plan\; record 
+ evidence.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b2b1f8fa9f03b719bdc1b4d1@career-roadmap.local
+DTSTAMP:20261010T104453Z
+DTSTART:20261106T110000Z
+DTEND:20261106T111500Z
+SUMMARY:Personalize recruiter introduction
+DESCRIPTION:Planning milestone only. Mark complete after evidence exists.
+  No exam\, meeting or external action is booked by this event.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:63668297365236889e8ae5fc@career-roadmap.local
+DTSTAMP:20261010T104453Z
+DTSTART:20261106T113000Z
+DTEND:20261106T120000Z
+SUMMARY:Monthly AI policy review
+DESCRIPTION:Read European AI Office updates and note one implication for 
+ consulting.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dbd52eafca05b26c87b1afb9@career-roadmap.local
+DTSTAMP:20261010T104453Z
+DTSTART:20261106T170000Z
+DTEND:20261106T173000Z
+SUMMARY:IAPM study block
+DESCRIPTION:Use the relevant weekly topic in the roadmap. Proposed time\;
+  check calendar conflicts.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3f2ff22c5326f74474cd6343@career-roadmap.local
+DTSTAMP:20261010T104453Z
+DTSTART:20261106T173000Z
+DTEND:20261106T180000Z
+SUMMARY:Career progress review
+DESCRIPTION:Update replies\, applications\, conversations and next action
+ s.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6898cfd98ff26f004388b2b1@career-roadmap.local
+DTSTAMP:20261010T104453Z
+DTSTART:20261107T080000Z
+DTEND:20261107T090000Z
+SUMMARY:IAPM consolidation
+DESCRIPTION:Practice recall\, revise error log and produce weekly output.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3bdea2290960415de506ea7e@career-roadmap.local
+DTSTAMP:20261010T104453Z
+DTSTART:20261108T113000Z
+DTEND:20261108T114500Z
+SUMMARY:IAPM readiness and registration decision
+DESCRIPTION:Planning milestone only. Mark complete after evidence exists.
+  No exam\, meeting or external action is booked by this event.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bb924a9906d066bdb669924b@career-roadmap.local
+DTSTAMP:20261010T104453Z
+DTSTART:20261109T170000Z
+DTEND:20261109T173000Z
+SUMMARY:IAPM study block
+DESCRIPTION:Use the relevant weekly topic in the roadmap. Proposed time\;
+  check calendar conflicts.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fe6bdb4375a87c49ef0da73f@career-roadmap.local
+DTSTAMP:20261010T104453Z
+DTSTART:20261109T173000Z
+DTEND:20261109T183000Z
+SUMMARY:Tailored applications
+DESCRIPTION:Normal-week target: two suitable applications. Record actual 
+ submissions.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a7015e5ce3180928f805f92c@career-roadmap.local
+DTSTAMP:20261010T104453Z
+DTSTART:20261110T113000Z
+DTEND:20261110T114500Z
+SUMMARY:Day 30 review and exam scheduling decision
+DESCRIPTION:Planning milestone only. Mark complete after evidence exists.
+  No exam\, meeting or external action is booked by this event.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f626c09dbf1110ce7215c9cc@career-roadmap.local
+DTSTAMP:20261010T104453Z
+DTSTART:20261112T113000Z
+DTEND:20261112T114500Z
+SUMMARY:Deployment and failure-recovery evidence due
+DESCRIPTION:Planning milestone only. Mark complete after evidence exists.
+  No exam\, meeting or external action is booked by this event.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8cee2690ef672ab814359f43@career-roadmap.local
+DTSTAMP:20261010T104453Z
+DTSTART:20261112T173000Z
+DTEND:20261112T180000Z
+SUMMARY:Targeted outreach
+DESCRIPTION:Normal-week target: three tailored messages. Review before se
+ nding.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:19d7833c63cfcd12a2d8e2ea@career-roadmap.local
+DTSTAMP:20261010T104453Z
+DTSTART:20261112T180000Z
+DTEND:20261112T193000Z
+SUMMARY:Portfolio and technical repetition
+DESCRIPTION:Follow the technical repetition and gap-action plan\; record 
+ evidence.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:21f48b849c488ec7f51cb6a7@career-roadmap.local
+DTSTAMP:20261010T104453Z
+DTSTART:20261113T173000Z
+DTEND:20261113T180000Z
+SUMMARY:Career progress review
+DESCRIPTION:Update replies\, applications\, conversations and next action
+ s.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0c90ea0264f38049974e80df@career-roadmap.local
+DTSTAMP:20261010T104453Z
+DTSTART:20261116T173000Z
+DTEND:20261116T183000Z
+SUMMARY:Tailored applications
+DESCRIPTION:Normal-week target: two suitable applications. Record actual 
+ submissions.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:81ebf78f851794b591b0dffe@career-roadmap.local
+DTSTAMP:20261010T104453Z
+DTSTART:20261117T113000Z
+DTEND:20261117T114500Z
+SUMMARY:Conditional IAPM exam target: not booked
+DESCRIPTION:Planning milestone only. Mark complete after evidence exists.
+  No exam\, meeting or external action is booked by this event.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:aa936c9be1137eedd4506009@career-roadmap.local
+DTSTAMP:20261010T104453Z
+DTSTART:20261119T113000Z
+DTEND:20261119T114500Z
+SUMMARY:German client explanation rehearsal
+DESCRIPTION:Planning milestone only. Mark complete after evidence exists.
+  No exam\, meeting or external action is booked by this event.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9d09e87329dd2d17c5f90ef5@career-roadmap.local
+DTSTAMP:20261010T104453Z
+DTSTART:20261119T173000Z
+DTEND:20261119T180000Z
+SUMMARY:Targeted outreach
+DESCRIPTION:Normal-week target: three tailored messages. Review before se
+ nding.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:08c4c10aebb63a3e9645511b@career-roadmap.local
+DTSTAMP:20261010T104453Z
+DTSTART:20261119T180000Z
+DTEND:20261119T193000Z
+SUMMARY:Portfolio and technical repetition
+DESCRIPTION:Follow the technical repetition and gap-action plan\; record 
+ evidence.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5f23b008184485e3684c3d40@career-roadmap.local
+DTSTAMP:20261010T104453Z
+DTSTART:20261120T173000Z
+DTEND:20261120T180000Z
+SUMMARY:Career progress review
+DESCRIPTION:Update replies\, applications\, conversations and next action
+ s.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:89ada362a14b55746bbb690a@career-roadmap.local
+DTSTAMP:20261010T104453Z
+DTSTART:20261123T173000Z
+DTEND:20261123T183000Z
+SUMMARY:Tailored applications
+DESCRIPTION:Normal-week target: two suitable applications. Record actual 
+ submissions.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0294440deee923b57e0801f8@career-roadmap.local
+DTSTAMP:20261010T104453Z
+DTSTART:20261124T113000Z
+DTEND:20261124T114500Z
+SUMMARY:Readiness reassessment if exam delayed
+DESCRIPTION:Planning milestone only. Mark complete after evidence exists.
+  No exam\, meeting or external action is booked by this event.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3ee8cd5b70ec514e98ad503b@career-roadmap.local
+DTSTAMP:20261010T104453Z
+DTSTART:20261126T173000Z
+DTEND:20261126T180000Z
+SUMMARY:Targeted outreach
+DESCRIPTION:Normal-week target: three tailored messages. Review before se
+ nding.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9a191d6549907a319a8b9ba5@career-roadmap.local
+DTSTAMP:20261010T104453Z
+DTSTART:20261126T180000Z
+DTEND:20261126T193000Z
+SUMMARY:Portfolio and technical repetition
+DESCRIPTION:Follow the technical repetition and gap-action plan\; record 
+ evidence.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:58b950228b0c5de8fa9d3ada@career-roadmap.local
+DTSTAMP:20261010T104453Z
+DTSTART:20261127T173000Z
+DTEND:20261127T180000Z
+SUMMARY:Career progress review
+DESCRIPTION:Update replies\, applications\, conversations and next action
+ s.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c621df05feea2cf07344a356@career-roadmap.local
+DTSTAMP:20261010T104453Z
+DTSTART:20261130T173000Z
+DTEND:20261130T183000Z
+SUMMARY:Tailored applications
+DESCRIPTION:Normal-week target: two suitable applications. Record actual 
+ submissions.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cd771ec2a8cc9ea478fc70a0@career-roadmap.local
+DTSTAMP:20261010T104453Z
+DTSTART:20261201T113000Z
+DTEND:20261201T114500Z
+SUMMARY:Pilot scope and case-study revision due
+DESCRIPTION:Planning milestone only. Mark complete after evidence exists.
+  No exam\, meeting or external action is booked by this event.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0a17f351ca71fcb59a0f5a57@career-roadmap.local
+DTSTAMP:20261010T104453Z
+DTSTART:20261203T173000Z
+DTEND:20261203T180000Z
+SUMMARY:Targeted outreach
+DESCRIPTION:Normal-week target: three tailored messages. Review before se
+ nding.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b2e61d23cbbe8c22eca07c42@career-roadmap.local
+DTSTAMP:20261010T104453Z
+DTSTART:20261203T180000Z
+DTEND:20261203T193000Z
+SUMMARY:Portfolio and technical repetition
+DESCRIPTION:Follow the technical repetition and gap-action plan\; record 
+ evidence.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:54887e866abb15c960b64d98@career-roadmap.local
+DTSTAMP:20261010T104453Z
+DTSTART:20261204T113000Z
+DTEND:20261204T120000Z
+SUMMARY:Monthly AI policy review
+DESCRIPTION:Read European AI Office updates and note one implication for 
+ consulting.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f78fc71aefe579020def84d8@career-roadmap.local
+DTSTAMP:20261010T104453Z
+DTSTART:20261204T173000Z
+DTEND:20261204T180000Z
+SUMMARY:Career progress review
+DESCRIPTION:Update replies\, applications\, conversations and next action
+ s.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f3ae8692abeac8d0ceab385c@career-roadmap.local
+DTSTAMP:20261010T104453Z
+DTSTART:20261209T170000Z
+DTEND:20261209T173000Z
+SUMMARY:Light campus-week review
+DESCRIPTION:Minimum plan: review weak topics and maintain one follow-up\;
+  proposed slot.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a554d7d14246eefb2a438c3c@career-roadmap.local
+DTSTAMP:20261010T104453Z
+DTSTART:20261210T113000Z
+DTEND:20261210T114500Z
+SUMMARY:Day 60 career review
+DESCRIPTION:Planning milestone only. Mark complete after evidence exists.
+  No exam\, meeting or external action is booked by this event.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
